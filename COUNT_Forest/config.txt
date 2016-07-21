@@ -1,0 +1,2 @@
+trainImgDir: Dataset\trainImgs.txt
+trainMarkDir: Dataset\trainMarkfiles.txt
